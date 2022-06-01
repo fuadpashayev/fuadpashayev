@@ -5,7 +5,9 @@ My name is Fuad and I'm a Software Engineer.
 [![GitHub Thaiane](https://img.shields.io/github/followers/fuadpashayev?label=follow&style=social)](https://github.com/fuadpashayev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadpashayev&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuadpashayev&theme=dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuadpashayev&theme=dark)](https://git.io/streak-stats)<br><br>
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=fuadpashayev)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
 
 ### Languages and Tools
 
