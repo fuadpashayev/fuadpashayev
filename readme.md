@@ -7,7 +7,7 @@ My name is Fuad and I'm a Software Engineer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadpashayev&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fuadpashayev&theme=dark)](https://git.io/streak-stats)<br>
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
