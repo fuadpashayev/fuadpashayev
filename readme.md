@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fuad and I'm a Software Engineer.
+My name is Fuad and I'm a Senior Software Engineer.
 
 [![Linkedin: fuadpashayev](https://img.shields.io/badge/-fuadpashayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fuadpashayev/)](https://www.linkedin.com/in/fuadpashayev/)    ![ViewCount](https://komarev.com/ghpvc/?username=fuadpashayev&color=1A4730)
 [![GitHub Thaiane](https://img.shields.io/github/followers/fuadpashayev?label=follow&style=social)](https://github.com/fuadpashayev)
